@@ -155,6 +155,10 @@ cd payload6
 
 mv -v payload6.zip $HOME
 
+
+cd
+
+
 rm -rf payload6
 
 cp payload6/payload6.zip $HOME
