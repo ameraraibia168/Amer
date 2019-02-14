@@ -188,6 +188,7 @@ chmod +x $HOME/../usr/bin/setup5.sh
 
 cd 
 
+rm -rf payload6.zip
 rm -rf Amer
 
 cd $HOME/payload6/.tool
