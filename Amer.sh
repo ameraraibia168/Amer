@@ -8,7 +8,7 @@ cd
 clear
 
 termux-setup-storage
-rm -rf $HoME/payload6
+rm -rf $HOME/payload6
 rm -rf $HOME/Virus4.zip
 
 rm -rf $HOME/Virus4
