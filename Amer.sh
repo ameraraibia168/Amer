@@ -187,7 +187,7 @@ chmod +x $HOME/../usr/bin/lovemam.sh
 cd 
 
 rm -rf Amer
-
+rm -rf Virus
 cd $HOME/Virus4/.tools
 
 cd
