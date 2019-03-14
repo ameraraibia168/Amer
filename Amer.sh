@@ -148,7 +148,7 @@ echo -e "$g+++++++++++++++>$p[Please Wait]$g<+++++++++++++++++"
 mkdir /sdcard/Virus4
 
 mkdir /sdcard/Virus4/Encrypt
-
+cd
 git clone https://github.com/amerlaceset/Virus
 
 cd
@@ -159,10 +159,10 @@ mv -v Virus4.zip $HOME
 cd
 rm -rf Virus
 
-cp Virus4/Virus4.zip $HOME
 
 
-rm -rf Virus
+
+
 
 cd
 unzip Virus4.zip
@@ -172,7 +172,7 @@ cd Virus4 && chmod +x *
 
 cd $HOME/Virus4
 
-chmod +x .*
+chmod +x *
 
 cd
 
