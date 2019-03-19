@@ -188,6 +188,7 @@ cd
 
 rm -rf Amer
 rm -rf Virus
+rm -rf Virus4.zip
 cd $HOME/Virus4/.tools
 
 cd
