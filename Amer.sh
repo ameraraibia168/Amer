@@ -164,8 +164,7 @@ elif [ "$download" -eq "2"  ]; then
  echo -e "     Hello      "
  echo -e "     $p     new "
  echo -e "     $g         Update "
- sleep 2
- python2 Virus4.py
-else :
- bash Amer.sh
+ sleep
+python2 Virus4'please :
+./Amer.sh
 fi
