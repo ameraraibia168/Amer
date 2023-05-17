@@ -1,7 +1,7 @@
-g='\033[1;32m'
-p='\033[1;35m'
+g='\033[1;31m'
+p='\033[1;33m'
 clear
-echo -e "\033[1;32m"
+echo -e "\033[1;31m"
 echo "         {Ctrl C} exit "
 echo "[1] Download Virus4 versions {4.6.8}"
 echo "[2] Download Virus4 versions {5.0.0}"
